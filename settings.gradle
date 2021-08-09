@@ -1,0 +1,2 @@
+rootProject.name = "FragmentsNav"
+include ':app'
